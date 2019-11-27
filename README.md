@@ -1,2 +1,0 @@
-# SmackProject
-ios app
